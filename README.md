@@ -1,2 +1,2 @@
-# acaiteria
-Este repositório é referente a um aplicativo desenvolvido por mim em Java, um sistema completo para uma açaiteria
+# Sistema de Pedido de Açai
+Este repositório é um aplicativo desenvolvido por mim em Java Spring Boot, um sistema completo para realização de pedidos de açai.
